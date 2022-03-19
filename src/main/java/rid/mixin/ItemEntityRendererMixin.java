@@ -1,6 +1,6 @@
-package bdi.mixin;
+package rid.mixin;
 
-import bdi.util.ItemEntityRotator;
+import rid.util.ItemEntityRotator;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.block.ShapeContext;

@@ -1,4 +1,4 @@
-package bdi.util;
+package rid.util;
 
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
