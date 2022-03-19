@@ -1,28 +1,30 @@
 {
   "schemaVersion": 1,
-  "id": "betterdroppeditems",
+  "id": "realisticitemdrops",
   "version": "${version}",
-  "name": "Better Dropped Items",
+  "name": "Realistic Item Drops",
   "description": "Improves the visuals of dropped items!",
   "authors": [
-    "Draylar"
+    "Draylar",
+    "Yuuki2012",
+    "SirOMGitsYOU"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/better-dropped-items",
-    "sources": "https://github.com/Draylar/better-dropped-items",
-    "issues": "https://github.com/Draylar/better-dropped-items/issues/"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/rid",
+    "sources": "https://github.com/SirOMGitsYOU/Realistic-Item-Drops",
+    "issues": "https://github.com/SirOMGitsYOU/Realistic-Item-Drops"
   },
 
   "license": "MIT",
-  "icon": "assets/betterdroppeditems/icon.png",
+  "icon": "assets/realisticitemdrops/icon.png",
 
   "environment": "client",
   "mixins": [
-    "betterdroppeditems.mixins.json"
+    "rid.mixins.json"
   ],
 
   "depends": {
-    "fabricloader": ">=0.11.3",
+    "fabricloader": ">=0.13.3",
     "minecraft": ">=1.18",
     "fabric": "*"
   }
