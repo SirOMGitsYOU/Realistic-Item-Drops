@@ -7,6 +7,7 @@
   "authors": [
     "Draylar",
     "Yuuki2012",
+    "fedetrifo06",
     "SirOMGitsYOU"
   ],
   "contact": {
@@ -24,8 +25,9 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.13.3",
-    "minecraft": ">=1.18",
-    "fabric": "*"
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "1.19.x",
+    "java": ">=17"
   }
 }
