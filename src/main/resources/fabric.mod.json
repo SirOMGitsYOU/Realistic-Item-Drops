@@ -11,9 +11,9 @@
     "SirOMGitsYOU"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/rid",
-    "sources": "https://github.com/SirOMGitsYOU/Realistic-Item-Drops",
-    "issues": "https://github.com/SirOMGitsYOU/Realistic-Item-Drops"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/better-dropped-items",
+    "sources": "https://github.com/Draylar/better-dropped-items",
+    "issues": "https://github.com/Draylar/better-dropped-items/issues/"
   },
 
   "license": "MIT",
